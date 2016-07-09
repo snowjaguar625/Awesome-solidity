@@ -27,11 +27,13 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 - [Gitter](https://gitter.im/ethereum/solidity/) - Solidity Gitter channel.
 
 #### Tutorials
-- [Eris Smart Contract Tutorial](https://docs.erisindustries.com/tutorials/solidity/solidity-1/) - Although targeted more at the Eris platform specifically, this tutorial teaches how to gradually increase the complexity of Solidity contracts in general.
+- [Eris Smart Contract Tutorial](https://docs.erisindustries.com/tutorials/solidity/solidity-1/) - Tutorial series which begins with a very simple smart contract and teaches how to gradually increase the complexity of your contracts in general via relevant design patterns.
+- [Solidity Workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced Solidity.
 
 #### Examples
 - [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Solidity contract examples.
 - [Double-Linked List](https://github.com/o0ragman0o/ll/blob/master/LinkedList.sol) - Implementation of a double-linked list as a Solidity contract.
+- [solidity-examples](https://github.com/chriseth/solidity-examples) - Examples which provide a starting point for data structures such as heaps and queues.
 
 
 ## Libraries
@@ -42,6 +44,7 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 ## Tools
 #### General
 - [Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js) - Online Solidity realtime compiler and runtime.
+- [REPL](https://github.com/raineorshine/solidity-repl) - Ethereum Solidity REPL CLI.
 
 #### Atom Packages
 - [language-ethereum](https://atom.io/packages/language-ethereum) - Adds syntax highlighting and snippets to Solidity and Serpent files in Atom.
@@ -49,4 +52,7 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 - [linter-solidity](https://atom.io/packages/linter-solidity) - Solidity linter.
 
 #### Emacs
-- [emacs-solidity](https://github.com/ethereum/emacs-solidity) - Solidity mode for Emacs
+- [emacs-solidity](https://github.com/ethereum/emacs-solidity) - Solidity mode for Emacs.
+
+#### Vim
+- [vim-solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity.
