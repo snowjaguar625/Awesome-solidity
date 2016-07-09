@@ -11,6 +11,7 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 - [Tools](#tools)
     - [General](#general)
     - [Atom Packages](#atom-packages)
+    - [Emacs](#emacs)
 
 
 ## Resources
@@ -24,7 +25,7 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 - [Gitter](https://gitter.im/ethereum/solidity/) - Solidity Gitter channel.
 
 #### Tutorials
-- [Eris Smart Contract Tutorial](https://github.com/eris-ltd/docs.erisindustries.com/blob/master/tutorials/solidity/solidity-1.md) - Although targeted more at the Eris platform specifically, this tutorial teaches how to gradually increase the complexity of Solidity contracts in general.
+- [Eris Smart Contract Tutorial](https://docs.erisindustries.com/tutorials/solidity/solidity-1/) - Although targeted more at the Eris platform specifically, this tutorial teaches how to gradually increase the complexity of Solidity contracts in general.
 
 #### Examples
 - [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Solidity contract examples.
@@ -44,3 +45,6 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 - [language-ethereum](https://atom.io/packages/language-ethereum) - Adds syntax highlighting and snippets to Solidity and Serpent files in Atom.
 - [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity) - Parses your Solidity files to give you contextual autocomplete suggestions.
 - [linter-solidity](https://atom.io/packages/linter-solidity) - Solidity linter.
+
+#### Emacs
+[emacs-solidity](https://github.com/ethereum/emacs-solidity) - Solidity mode for Emacs
