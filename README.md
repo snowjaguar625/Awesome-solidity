@@ -14,6 +14,9 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
     - [General](#general)
     - [Atom Packages](#atom-packages)
     - [Emacs](#emacs)
+    - [Vim](#vim)
+    - [Visual Studio](#visual-studio)
+- [Miscellaneous](#miscellaneous)
 
 
 ## Resources
@@ -56,3 +59,10 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 
 #### Vim
 - [vim-solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity.
+
+#### Visual Studio
+- [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code language support extension for Solidity.
+
+
+## Miscellaneous
+- [Roulette](https://github.com/retotrinkler/solidity1/tree/master/alpha) - A Solidity contract which emulates the game of Roulette.
