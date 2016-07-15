@@ -14,9 +14,10 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Libraries](#libraries)
 - [Tools](#tools)
     - [General](#general)
+    - [Utility](#utility)
     - [JavaScript](#javascript)
     - [Webpack](#webpack)
-- [Editors](#editors)
+- [Editor Plugins](#editor-plugins)
     - [Atom Packages](#atom-packages)
     - [Emacs](#emacs)
     - [Vim](#vim)
@@ -74,7 +75,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### Webpack
 - [solidity-loader](https://github.com/jeffscottward/solidity-loader) - Webpack loader for Solidity.
 
-## Editors
+## Editor Plugins
 #### Atom
 - [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity) - Parses your Solidity files to give you contextual autocomplete suggestions.
 - [language-ethereum](https://atom.io/packages/language-ethereum) - Adds syntax highlighting and snippets to Solidity and Serpent files in Atom.
